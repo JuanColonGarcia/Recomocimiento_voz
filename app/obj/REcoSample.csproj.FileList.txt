@@ -1,0 +1,8 @@
+obj\Debug\REcoSample.exe
+obj\Debug\REcoSample.pdb
+bin\Debug\REcoSample.exe
+bin\Debug\REcoSample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\REcoSample.Form1.resources
+obj\Debug\REcoSample.Properties.Resources.resources
+obj\Debug\REcoSample.csproj.GenerateResource.Cache

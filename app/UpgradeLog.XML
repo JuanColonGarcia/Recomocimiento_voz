@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="REcoSample">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\REcoSample.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\REcoSample.suo">
+</Property><Property Name="Date" Value="jueves, 19 de enero de 2012">
+</Property><Property Name="Time" Value="17:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="REcoSample.sln" Description="La copia C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\REcoSample.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="REcoSample.suo" Description="La copia C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\REcoSample.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="REcoSample.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\REcoSample.csproj">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Javier Jaén\Documents\SIU\InterfacesMultimodales\Speech\REcoSample\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="REcoSample" Source="REcoSample.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="REcoSample.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="REcoSample" Source="REcoSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="REcoSample.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="REcoSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="REcoSample" Source="REcoSample.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

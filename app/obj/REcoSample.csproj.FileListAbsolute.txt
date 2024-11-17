@@ -1,0 +1,20 @@
+C:\CSHARPBIN4\REcoSample\bin\Debug\REcoSample.exe
+C:\CSHARPBIN4\REcoSample\bin\Debug\REcoSample.pdb
+C:\CSHARPBIN4\REcoSample\obj\Debug\ResolveAssemblyReference.cache
+C:\CSHARPBIN4\REcoSample\obj\Debug\REcoSample.Form1.resources
+C:\CSHARPBIN4\REcoSample\obj\Debug\REcoSample.Properties.Resources.resources
+C:\CSHARPBIN4\REcoSample\obj\Debug\REcoSample.csproj.GenerateResource.Cache
+C:\CSHARPBIN4\REcoSample\obj\Debug\REcoSample.exe
+C:\CSHARPBIN4\REcoSample\obj\Debug\REcoSample.pdb
+C:\Users\fjaen\Documents\Visual Studio 2005\Projects\REcoSample\obj\Debug\REcoSample.exe
+C:\Users\fjaen\Documents\Visual Studio 2005\Projects\REcoSample\obj\Debug\REcoSample.pdb
+C:\Users\fjaen\Documents\Visual Studio 2005\Projects\REcoSample\bin\Debug\REcoSample.exe
+C:\Users\fjaen\Documents\Visual Studio 2005\Projects\REcoSample\bin\Debug\REcoSample.pdb
+C:\Users\fjaen\Documents\Visual Studio 2005\Projects\REcoSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fjaen\Documents\Visual Studio 2005\Projects\REcoSample\obj\Debug\REcoSample.Form1.resources
+C:\Users\fjaen\Documents\Visual Studio 2005\Projects\REcoSample\obj\Debug\REcoSample.Properties.Resources.resources
+C:\Users\fjaen\Documents\Visual Studio 2005\Projects\REcoSample\obj\Debug\REcoSample.csproj.GenerateResource.Cache
+X:\backupdiscoE\Cursos\MasterUbicomp\InterfacesMultimodales\Speech\REcoSample\obj\Debug\REcoSample.exe
+X:\backupdiscoE\Cursos\MasterUbicomp\InterfacesMultimodales\Speech\REcoSample\obj\Debug\REcoSample.pdb
+Z:\backupdiscoE\Cursos\MasterUbicomp\InterfacesMultimodales\Speech\REcoSample\obj\Debug\REcoSample.exe
+Z:\backupdiscoE\Cursos\MasterUbicomp\InterfacesMultimodales\Speech\REcoSample\obj\Debug\REcoSample.pdb
